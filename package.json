@@ -44,7 +44,7 @@
     "path": "0.12.7",
     "postcss": "8.4.28",
     "postcss-cli": "10.1.0",
-    "postcss-scss": "4.0.6",
+    "postcss-scss": "4.0.7",
     "rimraf": "4.4.1",
     "sass": "1.65.1",
     "turbolinks": "5.2.0"
